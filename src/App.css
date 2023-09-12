@@ -136,3 +136,20 @@ button:hover {
     margin-bottom: 0;
   }
 }
+/* ... Your existing CSS ... */
+
+.language-dropdown {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.language-dropdown label {
+  margin-right: 10px;
+}
+
+.language-dropdown select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
